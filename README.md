@@ -34,15 +34,10 @@ Variables are stored in an internal memory table:
 ### Binary Operations
 
 | **Operation**    |      **Description**                 |
-| ---------------- | ------------------------------------ |
 |       ADD        |      Addition                        |
-| ---------------- | ------------------------------------ |
 |       SUB        |      Subtraction                     |
-| ---------------- | ------------------------------------ |
 |       MUL        |      Multiplication                  |
-| ---------------- | ------------------------------------ |
 |       DIV        |      Division                        |
-| ---------------- | ------------------------------------ |
 |       LOG        |      Logarithm with custom base      |
 
 #### Example
@@ -54,19 +49,12 @@ Variables are stored in an internal memory table:
 ### Unary Operations
 
 | **Operation**    |      **Description**    |
-| ---------------- | ----------------------- |
 |       SQRT       |      Square root        |
-| ---------------- | ----------------------- |
 |       NEG        |      Negation           |
-| ---------------- | ----------------------- |
 |       ABS        |      Absolute value     |
-| ---------------- | ----------------------- |
 |       FACT       |      Factorial          |
-| ---------------- | ----------------------- |
 |       EXP        |      Exponential        |
-| ---------------- | ----------------------- |
 |       LOG2       |      Log base 2         |
-| ---------------- | ----------------------- |
 |       LOG10      |      Log base 10        |
 
 #### Example
