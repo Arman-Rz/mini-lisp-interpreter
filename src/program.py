@@ -141,7 +141,7 @@ class Program:
                     if len(args) != 2:
                         raise SyntaxError(f"{op} expects 2 arguments, got {len(args)}")
 
-                    first = args[0][0] if len(args[0]) == 1 else self._parser(args[1])
+                    first = args[0][0] if len(args[0]) == 1 else self._parser(args[0])
                     second = args[1][0] if len(args[1]) == 1 else self._parser(args[1])
 
                     return Node(type=op, params=[first, second])
