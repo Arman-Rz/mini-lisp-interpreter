@@ -192,7 +192,7 @@ Example:
 (ADD 1)
 ```
 ```Code
-SyntaxError: Add expects 2 arguments, gor 1
+SyntaxError: Add expects 2 arguments, got 1
 ```
 
 ## Project Structure
