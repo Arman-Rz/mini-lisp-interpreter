@@ -211,7 +211,7 @@ README.md
 ## Example Usage
 
 ```Python
-from src.Program import Program
+from src.program import Program
 
 interp = Program()
 
