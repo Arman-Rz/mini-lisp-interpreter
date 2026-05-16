@@ -1,5 +1,4 @@
 from src.vartable import VarTable
-from src.vartable import VarTable
 
 from src.node import Node, binary_ops, unary_ops
 from src.evaluator import Evaluator
